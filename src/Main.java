@@ -22,7 +22,7 @@ public class Main {
     public static void Components(){ // Creates components for frame
         JButton Exit = new JButton("Exit");
         Exit.setBounds(1160,650,95,30);
-        frame.add(Exit);
+        frame.add(Exit); // Test
     }
 }
 
